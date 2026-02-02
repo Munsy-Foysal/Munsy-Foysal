@@ -6,8 +6,10 @@
 
  ### <samp> Talking about Personal Stuffs:
 
-<samp> - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Currently working on Next.js, NestJs, TypeScript, PostgreSQL <br>
-<samp> - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help <br>
+<samp> - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; Currently working on Next.js, NestJs, TypeScript, PostgreSQL 
+
+<samp> - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help 
+
 <samp> - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: foysal613@outlook.com
 <br>
 
