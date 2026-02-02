@@ -11,5 +11,6 @@
 <samp> - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: foysal613@outlook.com
 <br>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/foysal-munsy)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Foysal-Munsy)
+
+<samp> Connect: [LinkedIn](https://www.linkedin.com/in/foysal-munsy)  [GitHub](https://github.com/Foysal-Munsy)
+
